@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "TimeStamp": "2021-01-31T16:02:28.3124011+01:00",
+    "Speed": 91,
+    "Location": {
+      "Id": 1,
+      "Address": "Maglegårdsvej 2",
+      "Zone": 0,
+      "SpeedLimit": 50
+    },
+    "ImageName": "c1.jfif"
+  },
+  {
+    "Id": 12,
+    "TimeStamp": "2021-02-14T08:15:26.0125673+01:00",
+    "Speed": 114,
+    "Location": {
+      "Id": 2,
+      "Address": "Hillerødmotorvejen 123",
+      "Zone": 2,
+      "SpeedLimit": 110
+    },
+    "ImageName": "olsenbanden.jfif"
+  },
+  {
+    "Id": 7,
+    "TimeStamp": "2021-02-14T08:45:05.4299701+01:00",
+    "Speed": 49,
+    "Location": {
+      "Id": 3,
+      "Address": "Frederiksborgvej 537",
+      "Zone": 1,
+      "SpeedLimit": 90
+    },
+    "ImageName": "whitetruck.jfif"
+  },
+  {
+    "Id": 10,
+    "TimeStamp": "2021-02-14T08:53:12.2149259+01:00",
+    "Speed": 28,
+    "Location": {
+      "Id": 2,
+      "Address": "Hillerødmotorvejen 123",
+      "Zone": 2,
+      "SpeedLimit": 110
+    },
+    "ImageName": "c1.jfif"
+  }
+]
